@@ -1,6 +1,6 @@
-# hello
+# Sticky Notes - Flutter
 
-A new Flutter application.
+A simple sticky notes app.
 
 ## Getting Started
 
